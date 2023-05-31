@@ -22,7 +22,7 @@ git clone <repository_url>
 1. Build Docker image
 ```docker build -t go-upload .```
 2. Run Docker container
-````docker run -p 8000:8000 go-upload```
+```docker run -p 8000:8000 go-upload```
 4. Run the application:
 
 5. Open your web browser and visit `http://localhost:8000` to access the application.
